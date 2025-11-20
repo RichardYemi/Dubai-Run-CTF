@@ -19,7 +19,7 @@ This CTF platform was developed for the SEC 432 Cybersecurity course at Zayed Un
 **Course:** SEC 432 - Cybersecurity  
 **Institution:** Zayed University  
 **College:** College of Technological Innovation (CTI)  
-**Theme:** Dubai Run 2024
+**Theme:** Dubai Run 2025
 
 ---
 
